@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedmineNotification.Api", "RedmineNotification.Api\RedmineNotification.Api.csproj", "{B282C20B-FF04-4EF1-B3E5-913669383407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedmineNotification.TelegramBot", "RedmineNotification.TelegramBot\RedmineNotification.TelegramBot.csproj", "{68BB4D41-2A5E-4DBF-91A4-7799CE0A6727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedmineNotification.Core", "RedmineNotification.Core\RedmineNotification.Core.csproj", "{51F2E590-49DC-4E6F-AFC4-CCA506212E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B282C20B-FF04-4EF1-B3E5-913669383407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B282C20B-FF04-4EF1-B3E5-913669383407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B282C20B-FF04-4EF1-B3E5-913669383407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B282C20B-FF04-4EF1-B3E5-913669383407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB4D41-2A5E-4DBF-91A4-7799CE0A6727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB4D41-2A5E-4DBF-91A4-7799CE0A6727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB4D41-2A5E-4DBF-91A4-7799CE0A6727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB4D41-2A5E-4DBF-91A4-7799CE0A6727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F2E590-49DC-4E6F-AFC4-CCA506212E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F2E590-49DC-4E6F-AFC4-CCA506212E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F2E590-49DC-4E6F-AFC4-CCA506212E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F2E590-49DC-4E6F-AFC4-CCA506212E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
